@@ -9,6 +9,7 @@ namespace PruebaConsolaGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Probando GitHub");
             Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
